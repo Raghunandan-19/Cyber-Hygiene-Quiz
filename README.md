@@ -6,13 +6,11 @@ An interactive quiz application designed to test and improve your cybersecurity 
 ## Features
 
 - **Interactive Quiz Interface**: Clean, modern UI with responsive design
-- **Dark/Light Theme Toggle**: Switch between cyberpunk dark and clean light themes
 - **Randomized Questions**: Get 5 random questions from a pool of 50+ cybersecurity questions
 - **Immediate Feedback**: See correct/incorrect answers with explanations
 - **Score Tracking**: Get your score at the end of the quiz with visual feedback
 - **Personalized Tips**: Receive customized feedback based on your performance
 - **Mobile-Friendly**: Works on both desktop and mobile devices
-- **Persistent Settings**: Your theme preference is saved between sessions
 
 ## Getting Started
 
@@ -28,24 +26,19 @@ An interactive quiz application designed to test and improve your cybersecurity 
 
 ## How to Use
 
-1. Use the theme toggle button (🌓/☀️) in the top-right corner to switch between dark and light themes
-2. Click the "Start Quiz" button to begin
-3. Read each question carefully and select your answer
-4. Click "Next Question" to proceed
-5. After answering all questions, view your score and personalized feedback
-6. Click "Take Quiz Again" to try a new set of random questions
-
-### Theme Options
-- **Dark Theme**: Cyberpunk-inspired dark interface with neon accents
-- **Light Theme**: Clean, accessible light interface with high contrast
+1. Click the "Start Quiz" button to begin
+2. Read each question carefully and select your answer
+3. Click "Next Question" to proceed
+4. After answering all questions, view your score and personalized feedback
+5. Click "Take Quiz Again" to try a new set of random questions
 
 ## File Structure
 
 ```
 cyber-hygiene-quiz/
 ├── index.html      # Main HTML file
-├── style.css       # Styles for the quiz interface with theme support
-├── quiz.js         # Quiz logic, functionality, and theme switching
+├── style.css       # Styles for the quiz interface
+├── quiz.js         # Quiz logic and functionality
 ├── questions.json  # Database of 50+ cybersecurity questions
 └── README.md       # Project documentation
 ```

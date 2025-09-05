@@ -1,31 +1,3 @@
-// Theme Toggle
-const themeToggle = document.getElementById('theme-toggle');
-const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
-const currentTheme = localStorage.getItem('theme') || (prefersDarkScheme.matches ? 'dark' : 'light');
-
-// Apply the saved theme, or user's preferred color scheme
-if (currentTheme === 'dark') {
-    document.documentElement.setAttribute('data-theme', 'dark');
-    themeToggle.innerHTML = '<span class="theme-icon">☀️</span>';
-} else {
-    document.documentElement.setAttribute('data-theme', 'light');
-    themeToggle.innerHTML = '<span class="theme-icon">🌙</span>';
-}
-
-// Toggle theme on button click
-themeToggle.addEventListener('click', () => {
-    const currentTheme = document.documentElement.getAttribute('data-theme');
-    if (currentTheme === 'dark') {
-        document.documentElement.setAttribute('data-theme', 'light');
-        localStorage.setItem('theme', 'light');
-        themeToggle.innerHTML = '<span class="theme-icon">🌙</span>';
-    } else {
-        document.documentElement.setAttribute('data-theme', 'dark');
-        localStorage.setItem('theme', 'dark');
-        themeToggle.innerHTML = '<span class="theme-icon">☀️</span>';
-    }
-});
-
 // DOM Elements
 const startScreen = document.getElementById('start-screen');
 const quizScreen = document.getElementById('quiz-screen');
