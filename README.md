@@ -39,7 +39,7 @@ cyber-hygiene-quiz/
 ├── index.html      # Main HTML file
 ├── style.css       # Styles for the quiz interface
 ├── quiz.js         # Quiz logic and functionality
-├── questions.json  # Database of 50+ cybersecurity questions
+├── questions.json  # Database of 50+ cybersecurity questionsz
 └── README.md       # Project documentation
 ```
 
