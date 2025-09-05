@@ -1,0 +1,432 @@
+[
+    {
+        "question": "Which of the following is the strongest password?",
+        "options": [
+            "123456",
+            "Password1",
+            "MyC@tIsC00l!",
+            "qwerty"
+        ],
+        "answer": "MyC@tIsC00l!"
+    },
+    {
+        "question": "What should you do if you receive a suspicious email from your bank?",
+        "options": [
+            "Click the link to check your account",
+            "Reply with personal info",
+            "Delete it or report as phishing",
+            "Forward to friends"
+        ],
+        "answer": "Delete it or report as phishing"
+    },
+    {
+        "question": "Enabling two-factor authentication (2FA) helps to:",
+        "options": [
+            "Make your password shorter",
+            "Add an extra layer of security",
+            "Share passwords safely",
+            "Automatically update your system"
+        ],
+        "answer": "Add an extra layer of security"
+    },
+    {
+        "question": "What is the best practice for using public Wi-Fi?",
+        "options": [
+            "Access sensitive accounts without concern",
+            "Use a VPN when connecting to public Wi-Fi",
+            "Disable your firewall for better speed",
+            "Share your login credentials with friends"
+        ],
+        "answer": "Use a VPN when connecting to public Wi-Fi"
+    },
+    {
+        "question": "What is a common sign of a phishing attempt?",
+        "options": [
+            "A legitimate-looking email from a known company",
+            "Urgent requests for personal information",
+            "Poor grammar and spelling errors",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "How often should you update your passwords?",
+        "options": [
+            "Every week",
+            "Every 3-6 months",
+            "Once a year",
+            "Only when you forget them"
+        ],
+        "answer": "Every 3-6 months"
+    },
+    {
+        "question": "What is the purpose of a password manager?",
+        "options": [
+            "To store all your passwords in one secure place",
+            "To generate strong, unique passwords for each account",
+            "To automatically fill in login forms",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What should you do if you suspect your account has been hacked?",
+        "options": [
+            "Change your password immediately",
+            "Enable two-factor authentication",
+            "Check for any unauthorized activity",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the purpose of a firewall?",
+        "options": [
+            "To block unauthorized access to your network",
+            "To speed up your internet connection",
+            "To create strong passwords",
+            "To scan for viruses"
+        ],
+        "answer": "To block unauthorized access to your network"
+    },
+    {
+        "question": "What is the most secure way to share sensitive files?",
+        "options": [
+            "Email them as attachments",
+            "Use a secure file sharing service with encryption",
+            "Post them on social media",
+            "Store them on a public cloud without a password"
+        ],
+        "answer": "Use a secure file sharing service with encryption"
+    },
+    {
+        "question": "What is social engineering?",
+        "options": [
+            "A type of computer virus",
+            "A method of manipulating people into giving up confidential information",
+            "A programming language for social media",
+            "A type of hardware firewall"
+        ],
+        "answer": "A method of manipulating people into giving up confidential information"
+    },
+    {
+        "question": "What does HTTPS stand for in a website URL?",
+        "options": [
+            "HyperText Transfer Protocol Secure",
+            "Hyperlink Text Transfer Protocol System",
+            "High-Tech Transfer Protocol Service",
+            "Hyper Transfer Protocol Security"
+        ],
+        "answer": "HyperText Transfer Protocol Secure"
+    },
+    {
+        "question": "What is a VPN used for?",
+        "options": [
+            "To increase internet speed",
+            "To create a secure connection over the internet",
+            "To block all incoming connections",
+            "To scan for malware"
+        ],
+        "answer": "To create a secure connection over the internet"
+    },
+    {
+        "question": "What is the best way to handle a USB drive you found on the ground?",
+        "options": [
+            "Plug it into your computer to see what's on it",
+            "Give it to IT or security personnel",
+            "Format it and use it yourself",
+            "Throw it away"
+        ],
+        "answer": "Give it to IT or security personnel"
+    },
+    {
+        "question": "What is the purpose of a security patch?",
+        "options": [
+            "To add new features to software",
+            "To fix security vulnerabilities",
+            "To improve software performance",
+            "To change the software's user interface"
+        ],
+        "answer": "To fix security vulnerabilities"
+    },
+    {
+        "question": "What is multi-factor authentication (MFA)?",
+        "options": [
+            "Using multiple passwords for one account",
+            "A security system that requires multiple methods of verification",
+            "Having multiple user accounts on the same device",
+            "Using the same password for multiple accounts"
+        ],
+        "answer": "A security system that requires multiple methods of verification"
+    },
+    {
+        "question": "What is the best way to protect against ransomware?",
+        "options": [
+            "Regularly back up your data",
+            "Never open email attachments",
+            "Disable your antivirus software",
+            "Use the same password for all accounts"
+        ],
+        "answer": "Regularly back up your data"
+    },
+    {
+        "question": "What is a zero-day vulnerability?",
+        "options": [
+            "A security flaw that is known but not yet patched",
+            "A type of malware that deletes files after 24 hours",
+            "A password that expires every day",
+            "A security protocol that updates at midnight"
+        ],
+        "answer": "A security flaw that is known but not yet patched"
+    },
+    {
+        "question": "What is the purpose of a security token?",
+        "options": [
+            "To store all your passwords",
+            "To provide an additional authentication factor",
+            "To encrypt your hard drive",
+            "To block unwanted emails"
+        ],
+        "answer": "To provide an additional authentication factor"
+    },
+    {
+        "question": "What is the best practice for creating a strong password?",
+        "options": [
+            "Use personal information like your name or birthdate",
+            "Use common dictionary words",
+            "Use a mix of uppercase and lowercase letters, numbers, and special characters",
+            "Use the same password for all accounts"
+        ],
+        "answer": "Use a mix of uppercase and lowercase letters, numbers, and special characters"
+    },
+    {
+        "question": "What is the purpose of a security audit?",
+        "options": [
+            "To check for software updates",
+            "To evaluate the effectiveness of security measures",
+            "To monitor employee internet usage",
+            "To create new security policies"
+        ],
+        "answer": "To evaluate the effectiveness of security measures"
+    },
+    {
+        "question": "What is the best way to secure your home Wi-Fi network?",
+        "options": [
+            "Use WPA3 encryption",
+            "Disable the wireless password",
+            "Use the default SSID and password",
+            "Broadcast your SSID"
+        ],
+        "answer": "Use WPA3 encryption"
+    },
+    {
+        "question": "What is the purpose of a security certificate on a website?",
+        "options": [
+            "To verify the website's identity and encrypt data",
+            "To track user activity",
+            "To store user credentials",
+            "To block malicious websites"
+        ],
+        "answer": "To verify the website's identity and encrypt data"
+    },
+    {
+        "question": "What is the best practice for handling sensitive documents?",
+        "options": [
+            "Store them on your desktop for easy access",
+            "Share them via unencrypted email",
+            "Store them in a secure, encrypted location",
+            "Print them out and store them in an unlocked drawer"
+        ],
+        "answer": "Store them in a secure, encrypted location"
+    },
+    {
+        "question": "What is tailgating in a security context?",
+        "options": [
+            "A type of cyber attack",
+            "Following someone through a secure entrance without authorization",
+            "A method of password cracking",
+            "A type of malware"
+        ],
+        "answer": "Following someone through a secure entrance without authorization"
+    },
+    {
+        "question": "What is the purpose of a security policy?",
+        "options": [
+            "To restrict employee internet access",
+            "To define security procedures and guidelines",
+            "To monitor employee emails",
+            "To track employee attendance"
+        ],
+        "answer": "To define security procedures and guidelines"
+    },
+    {
+        "question": "What is the best practice for disposing of old hard drives?",
+        "options": [
+            "Throw them in the trash",
+            "Sell them on an online marketplace",
+            "Use a secure data destruction method",
+            "Donate them to charity"
+        ],
+        "answer": "Use a secure data destruction method"
+    },
+    {
+        "question": "What is the purpose of a security awareness training program?",
+        "options": [
+            "To teach employees about security best practices",
+            "To monitor employee productivity",
+            "To track employee internet usage",
+            "To test employee computer skills"
+        ],
+        "answer": "To teach employees about security best practices"
+    },
+    {
+        "question": "What is the best way to protect against identity theft?",
+        "options": [
+            "Share personal information freely online",
+            "Use the same password for all accounts",
+            "Regularly monitor your credit reports",
+            "Carry your Social Security card in your wallet"
+        ],
+        "answer": "Regularly monitor your credit reports"
+    },
+    {
+        "question": "What is the purpose of a security incident response plan?",
+        "options": [
+            "To prevent all security incidents",
+            "To provide a structured approach to handling security breaches",
+            "To monitor employee activities",
+            "To track software licenses"
+        ],
+        "answer": "To provide a structured approach to handling security breaches"
+    },
+    {
+        "question": "What is the best practice for securing your mobile device?",
+        "options": [
+            "Disable the lock screen",
+            "Install apps from untrusted sources",
+            "Keep the operating system and apps updated",
+            "Connect to any available public Wi-Fi"
+        ],
+        "answer": "Keep the operating system and apps updated"
+    },
+    {
+        "question": "What is the purpose of a virtual private network (VPN) when using public Wi-Fi?",
+        "options": [
+            "To increase internet speed",
+            "To encrypt internet traffic and protect data",
+            "To bypass website restrictions",
+            "To access region-locked content"
+        ],
+        "answer": "To encrypt internet traffic and protect data"
+    },
+    {
+        "question": "What is the best way to verify the legitimacy of a website before entering personal information?",
+        "options": [
+            "Look for 'https://' and a padlock icon in the address bar",
+            "Check if the website has lots of pop-up ads",
+            "Trust the website if it appears in search results",
+            "Enter fake information first to test the website"
+        ],
+        "answer": "Look for 'https://' and a padlock icon in the address bar"
+    },
+    {
+        "question": "What is the purpose of a security awareness program?",
+        "options": [
+            "To monitor employee activities",
+            "To educate users about security risks and best practices",
+            "To restrict internet access",
+            "To track software licenses"
+        ],
+        "answer": "To educate users about security risks and best practices"
+    },
+    {
+        "question": "What is the best practice for handling suspicious emails?",
+        "options": [
+            "Click on links to verify their legitimacy",
+            "Open attachments to check their contents",
+            "Report them to your IT department",
+            "Forward them to colleagues to get their opinion"
+        ],
+        "answer": "Report them to your IT department"
+    },
+    {
+        "question": "What is the purpose of a security assessment?",
+        "options": [
+            "To identify vulnerabilities in a system",
+            "To monitor employee internet usage",
+            "To track software licenses",
+            "To create security policies"
+        ],
+        "answer": "To identify vulnerabilities in a system"
+    },
+    {
+        "question": "What is the best practice for securing your social media accounts?",
+        "options": [
+            "Use the same password for all accounts",
+            "Enable two-factor authentication",
+            "Accept friend requests from everyone",
+            "Share your login credentials with friends"
+        ],
+        "answer": "Enable two-factor authentication"
+    },
+    {
+        "question": "What is the purpose of a security breach notification?",
+        "options": [
+            "To inform affected individuals about a data breach",
+            "To announce new security features",
+            "To promote security awareness training",
+            "To report security incidents to law enforcement"
+        ],
+        "answer": "To inform affected individuals about a data breach"
+    },
+    {
+        "question": "What is the best practice for securing your home computer?",
+        "options": [
+            "Disable automatic updates",
+            "Use an administrator account for daily activities",
+            "Install and regularly update antivirus software",
+            "Share your login credentials with family members"
+        ],
+        "answer": "Install and regularly update antivirus software"
+    },
+    {
+        "question": "What is the purpose of a security awareness campaign?",
+        "options": [
+            "To promote security products",
+            "To increase awareness of security threats and best practices",
+            "To monitor employee activities",
+            "To track security incidents"
+        ],
+        "answer": "To increase awareness of security threats and best practices"
+    },
+    {
+        "question": "What is the best practice for securing your online accounts?",
+        "options": [
+            "Use the same password for all accounts",
+            "Enable two-factor authentication",
+            "Share your passwords with trusted friends",
+            "Use easily guessable security questions"
+        ],
+        "answer": "Enable two-factor authentication"
+    },
+    {
+        "question": "What is the purpose of a security awareness poster?",
+        "options": [
+            "To decorate the office",
+            "To remind employees about security best practices",
+            "To track employee attendance",
+            "To display the company's security policy"
+        ],
+        "answer": "To remind employees about security best practices"
+    },
+    {
+        "question": "What is the best practice for securing your mobile device?",
+        "options": [
+            "Disable the lock screen",
+            "Install apps from untrusted sources",
+            "Enable remote wipe capability",
+            "Connect to any available public Wi-Fi"
+        ],
+        "answer": "Enable remote wipe capability"
+    }
+]
