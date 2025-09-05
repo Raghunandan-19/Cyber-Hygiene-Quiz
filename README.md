@@ -2,7 +2,6 @@
 
 An interactive quiz application designed to test and improve your cybersecurity knowledge and best practices. The quiz features a collection of 50+ cybersecurity questions covering various topics such as password security, phishing, social engineering, and more.
 
-![Cyber Hygiene Quiz Screenshot](https://via.placeholder.com/800x500/0a192f/00ff9d?text=Cyber+Hygiene+Quiz)
 
 ## Features
 
@@ -94,7 +93,7 @@ Please ensure your code follows the existing style and includes appropriate docu
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the MIT License.
 
 ## Acknowledgments
 
@@ -102,10 +101,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - Inspired by various cybersecurity awareness training programs
 - Built with vanilla HTML, CSS, and JavaScript
 - Special thanks to all contributors who help improve this project
-
-## Acknowledgments
-
-- Questions are based on common cybersecurity best practices
-- Inspired by various cybersecurity awareness training programs
-- Built with vanilla HTML, CSS, and JavaScript
-# Cyber-Hygiene-Quiz
